@@ -21,7 +21,7 @@
     "aggregateRating": {
         "@type": "AggregateRating",
         "bestRating": "10",
-        "ratingCount": "10937",
+        "ratingCount": "11039",
         "ratingValue": "9.0",
         "worstRating": "2"
     },

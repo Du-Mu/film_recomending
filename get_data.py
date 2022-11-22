@@ -15,7 +15,6 @@ headers = {
 
 '''
 {
-    'film':film-name',
     1:
         'id':''
         'content':''
@@ -27,7 +26,6 @@ headers = {
 }
 [film struct]
 '''
-
 
 def film_reviews_spider(film_link, film_info, rating_data, addr_data):
     start_num = 0;
@@ -67,7 +65,7 @@ def film_reviews_spider(film_link, film_info, rating_data, addr_data):
             else:
                 addr_data[addr] += 1
                 
-            film_info[str(count)] = comment_info
+            film_info[count] = comment_info
 
     return True
 
@@ -97,7 +95,7 @@ def get_film_id():
         print('[-]now are processing film ' + str(num))
 
         film_name = i.get('title')
-        film_info = {'title':film_name}
+        film_info = {}
         film_reviews_spider(film_link=i.get('href'), film_info=film_info, rating_data=rating_data, addr_data=addr_data)
         basic_data = get_basic_data(i.get('href'))
 

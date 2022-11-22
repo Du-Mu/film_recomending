@@ -186,7 +186,7 @@
     "aggregateRating": {
         "@type": "AggregateRating",
         "bestRating": "10",
-        "ratingCount": "8402",
+        "ratingCount": "8441",
         "ratingValue": "6.6",
         "worstRating": "2"
     },

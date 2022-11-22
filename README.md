@@ -13,7 +13,8 @@ Crawler for film critics from douban.com
 data file struct:  
 
 ```bash
---film_data
+film_recomending
+--|--film_data
   |  |--film1_data
   |  |  |--addr.json
   |  |  |--basic.json
@@ -21,6 +22,9 @@ data file struct:
   |  |  |--rating.json
   |  |--film2_data
   |  ...
+  |--paper_writing
+  |  |--Film-Analysis-Based-on-NLP.tex
+  |  |--images/
   |--get_data.py
   |--data_analysis.py
 ```
@@ -37,7 +41,6 @@ data file struct:
 
 - snowNLP
   NLP
-
 
 
 # Paper Planning

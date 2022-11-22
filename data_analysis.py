@@ -1,14 +1,10 @@
+import re
 import csv
 import json
 import matplotlib.pyplot as plt
-'''
-"bestRating": "10",
-        "ratingCount": "70247",
-        "ratingValue": "8.6",
-        "worstRating": "2"
-'''
+
 def analysis_basic_info(csv_file_name):
-    header = ['name','data','genre','data','rating_count', 'rating_value']
+    header = ['No','name','data','genre','data','rating_count', 'rating_value']
     csv_file = open(csv_file_name, 'w')
     writer = csv.writer(csv_file)
     writer.writerow(header)
@@ -17,6 +13,7 @@ def analysis_basic_info(csv_file_name):
         file = open('./film_data/film'+str(i)+'/basic.json', 'r')
         basic_info = json.load(fp=file)
         row = [
+            i,
             basic_info['name'],
             basic_info['datePublished'],
             basic_info['genre'],
@@ -26,7 +23,6 @@ def analysis_basic_info(csv_file_name):
         writer.writerow(row)
         file.close()
     csv_file.close()
-
 
 def analysis_addr_info(file_name, film_no):
     file = open(file_name, 'r')
@@ -64,5 +60,10 @@ def analysis_rating_info(file_name, film_no):
     plt.title('rating_info')
     plt.savefig('./paper_writing/images/rating'+str(film_no)+'.jpg')
 
+def analysis_comments_info(file_name): 
+    file = open(file_name, 'r')
+    comments_info = json.load(fp=file)
+    file.close()
 
-    
+    for i in range(0, len(comments_info)+1):
+        content = [' '.join(re.findall('[\u4e00-\u9fa5]+', item, re.S)) for item in content]
