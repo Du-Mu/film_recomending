@@ -1,0 +1,229 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "道恩·强森 Dwayne Johnson",
+            "url": "/celebrity/1044707/"
+        },
+        {
+            "@type": "Person",
+            "name": "阿尔迪斯·霍吉 Aldis Hodge",
+            "url": "/celebrity/1098575/"
+        },
+        {
+            "@type": "Person",
+            "name": "皮尔斯·布鲁斯南 Pierce Brosnan",
+            "url": "/celebrity/1031219/"
+        },
+        {
+            "@type": "Person",
+            "name": "诺亚·琴蒂内奥 Noah Centineo",
+            "url": "/celebrity/1345500/"
+        },
+        {
+            "@type": "Person",
+            "name": "莎拉·夏希 Sarah Shahi",
+            "url": "/celebrity/1017830/"
+        },
+        {
+            "@type": "Person",
+            "name": "昆泰莎·斯文戴尔 Quintessa Swindell",
+            "url": "/celebrity/1418396/"
+        },
+        {
+            "@type": "Person",
+            "name": "马尔万·肯扎里 Marwan Kenzari",
+            "url": "/celebrity/1273062/"
+        },
+        {
+            "@type": "Person",
+            "name": "博德希·萨邦圭 Bodhi Sabongui",
+            "url": "/celebrity/1454985/"
+        },
+        {
+            "@type": "Person",
+            "name": "穆罕默德·阿米尔 Mohammed Amer",
+            "url": "/celebrity/1400406/"
+        },
+        {
+            "@type": "Person",
+            "name": "詹姆斯·卡萨蒂-莫耶尔 James Cusati-Moyer",
+            "url": "/celebrity/1441512/"
+        },
+        {
+            "@type": "Person",
+            "name": "哈隆·克里斯蒂安 Jalon Christian ",
+            "url": "/celebrity/1466077/"
+        },
+        {
+            "@type": "Person",
+            "name": "本杰明·帕特森 Benjamin Patterson ",
+            "url": "/celebrity/1479434/"
+        },
+        {
+            "@type": "Person",
+            "name": "奥德娅·哈尔维 Odelya Halevi",
+            "url": "/celebrity/1422578/"
+        },
+        {
+            "@type": "Person",
+            "name": "乌利·拉图基孚 Uli Latukefu",
+            "url": "/celebrity/1374205/"
+        },
+        {
+            "@type": "Person",
+            "name": "詹尼佛·霍兰德 Jennifer Holland",
+            "url": "/celebrity/1387847/"
+        },
+        {
+            "@type": "Person",
+            "name": "亨利·温克勒 Henry Winkler",
+            "url": "/celebrity/1041140/"
+        },
+        {
+            "@type": "Person",
+            "name": "哈伊姆·吉拉菲 Chaim Jeraffi",
+            "url": "/celebrity/1464098/"
+        },
+        {
+            "@type": "Person",
+            "name": "杰曼·翰苏 Djimon Hounsou",
+            "url": "/celebrity/1044880/"
+        },
+        {
+            "@type": "Person",
+            "name": "桑娜·海恩斯 Sanna Haynes",
+            "url": "/celebrity/1265243/"
+        },
+        {
+            "@type": "Person",
+            "name": "托内亚·斯图尔特 Tonea Stewart",
+            "url": "/celebrity/1151617/"
+        },
+        {
+            "@type": "Person",
+            "name": "帕特里克·萨邦圭 Patrick Sabongui",
+            "url": "/celebrity/1014383/"
+        },
+        {
+            "@type": "Person",
+            "name": "约瑟夫·盖特 Joseph Gatt",
+            "url": "/celebrity/1224212/"
+        },
+        {
+            "@type": "Person",
+            "name": "杰梅因·里弗斯 Jermaine Rivers",
+            "url": "/celebrity/1382252/"
+        },
+        {
+            "@type": "Person",
+            "name": "里贾纳·陈婷 Regina Ting Chen",
+            "url": "/celebrity/1357977/"
+        },
+        {
+            "@type": "Person",
+            "name": "卡梅隆·莫伊尔 Cameron Moir",
+            "url": "/celebrity/1429104/"
+        },
+        {
+            "@type": "Person",
+            "name": "德里克·罗素 Derek Russo",
+            "url": "/celebrity/1428396/"
+        },
+        {
+            "@type": "Person",
+            "name": "小安杰尔·罗萨里奥 Angel Rosario Jr. ",
+            "url": "/celebrity/1464099/"
+        },
+        {
+            "@type": "Person",
+            "name": "克里斯托弗·马修·库克 Christopher Matthew Cook",
+            "url": "/celebrity/1352714/"
+        },
+        {
+            "@type": "Person",
+            "name": "娜塔莉·伯恩 Natalie Burn",
+            "url": "/celebrity/1341315/"
+        },
+        {
+            "@type": "Person",
+            "name": "亨利·卡维尔 Henry Cavill",
+            "url": "/celebrity/1044713/"
+        },
+        {
+            "@type": "Person",
+            "name": "维奥拉·戴维斯 Viola Davis",
+            "url": "/celebrity/1022676/"
+        },
+        {
+            "@type": "Person",
+            "name": "施奎塔·詹姆斯 Shiquita James",
+            "url": "/celebrity/1423082/"
+        },
+        {
+            "@type": "Person",
+            "name": "拉希姆·赖利 Rahiem Riley ",
+            "url": "/celebrity/1464100/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "26054",
+        "ratingValue": "5.8",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "亚当·希泰凯尔 Adam Sztykiel",
+            "url": "/celebrity/1314906/"
+        },
+        {
+            "@type": "Person",
+            "name": "罗里·海恩斯 Rory Haines",
+            "url": "/celebrity/1271746/"
+        },
+        {
+            "@type": "Person",
+            "name": "苏哈·诺什瓦尼 Sohrab Noshirvani",
+            "url": "/celebrity/1445190/"
+        },
+        {
+            "@type": "Person",
+            "name": "比尔·帕克 Bill Parker",
+            "url": "/celebrity/1231505/"
+        },
+        {
+            "@type": "Person",
+            "name": "C·C·贝克 C.C. Beck",
+            "url": "/celebrity/1020242/"
+        },
+        {
+            "@type": "Person",
+            "name": "奥托·班德 Otto Binder",
+            "url": "/celebrity/1052091/"
+        }
+    ],
+    "datePublished": "2022-10-19",
+    "description": "这个世界需要超级英雄…… 黑亚当降临。\n黑亚当（道恩·强森 饰）被赋予了古代诸神无所不能的力量，但很快就被封印。近五千年后，他终于重见天日，并将在现代世界以独一无二的方式行使正义。",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "佐米·希尔拉 Jaume Collet-Serra",
+            "url": "/celebrity/1214705/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "动作",
+        "科幻",
+        "奇幻",
+        "冒险"
+    ],
+    "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2879837732.jpg",
+    "name": "黑亚当 Black Adam",
+    "url": "/subject/26959697/"
+}

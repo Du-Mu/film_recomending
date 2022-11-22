@@ -1,0 +1,81 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "米娅·高斯 Mia Goth",
+            "url": "/celebrity/1333367/"
+        },
+        {
+            "@type": "Person",
+            "name": "坦蒂·莱特 Tandi Wright",
+            "url": "/celebrity/1301316/"
+        },
+        {
+            "@type": "Person",
+            "name": "马修·桑德兰 Matthew Sunderland",
+            "url": "/celebrity/1298657/"
+        },
+        {
+            "@type": "Person",
+            "name": "大卫·科伦斯韦 David Corenswet",
+            "url": "/celebrity/1420725/"
+        },
+        {
+            "@type": "Person",
+            "name": "艾玛·詹金斯·普罗 Emma Jenkins-Purro",
+            "url": "/celebrity/1476620/"
+        },
+        {
+            "@type": "Person",
+            "name": "阿利斯泰尔·休厄尔 Alistair Sewell ",
+            "url": "/celebrity/1477828/"
+        },
+        {
+            "@type": "Person",
+            "name": "艾米莉亚·瑞德 Amelia Reid ",
+            "url": "/celebrity/1479577/"
+        },
+        {
+            "@type": "Person",
+            "name": "Todd Rippon Todd Rippon",
+            "url": "/celebrity/1145258/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "25211",
+        "ratingValue": "7.3",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "缇·威斯特 Ti West",
+            "url": "/celebrity/1027452/"
+        },
+        {
+            "@type": "Person",
+            "name": "米娅·高斯 Mia Goth",
+            "url": "/celebrity/1333367/"
+        }
+    ],
+    "datePublished": "2022-09-03",
+    "description": "电影为《X》的前传，讲述了邪恶的老太太珀尔（米娅·高斯 Mia Goth 饰）年轻时的故事。珀尔为了获得自由，嫁给了名叫霍华德（阿利斯泰尔·休厄尔 Alistair Sewell 饰）的男子，哪知道结...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "缇·威斯特 Ti West",
+            "url": "/celebrity/1027452/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "恐怖"
+    ],
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2880319580.jpg",
+    "name": "珀尔 Pearl",
+    "url": "/subject/35801819/"
+}

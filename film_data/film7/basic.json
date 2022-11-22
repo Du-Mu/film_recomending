@@ -1,0 +1,66 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "米兰达·裘丽 Miranda July",
+            "url": "/celebrity/1004961/"
+        },
+        {
+            "@type": "Person",
+            "name": "卡提亚·克拉夫特 Katia Krafft",
+            "url": "/celebrity/1166617/"
+        },
+        {
+            "@type": "Person",
+            "name": "莫里斯·克拉夫特 Maurice Krafft",
+            "url": "/celebrity/1168258/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "10937",
+        "ratingValue": "9.0",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "沙恩·鲍里斯 Shane Boris ",
+            "url": "/celebrity/1476086/"
+        },
+        {
+            "@type": "Person",
+            "name": "艾琳·卡斯帕 Erin Casper ",
+            "url": "/celebrity/1476087/"
+        },
+        {
+            "@type": "Person",
+            "name": "乔瑟琳·查普特 Jocelyne Chaput ",
+            "url": "/celebrity/1476088/"
+        },
+        {
+            "@type": "Person",
+            "name": "萨拉·多萨 Sara Dosa",
+            "url": "/celebrity/1344959/"
+        }
+    ],
+    "datePublished": "2022-01-20",
+    "description": "Katia和Maurice Krafft除了彼此相爱之外，还深深迷恋着火山。二十年来，这对热爱冒险的法国夫妇纵情于与自然之间惊险、刺激的“三角恋”。两人追随全球的火山喷发和余波，用惊艳的摄影和震撼人心...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "萨拉·多萨 Sara Dosa",
+            "url": "/celebrity/1344959/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "纪录片"
+    ],
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2873963448.jpg",
+    "name": "火山挚恋 Fire of Love",
+    "url": "/subject/35694766/"
+}

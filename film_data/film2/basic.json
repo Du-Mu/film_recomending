@@ -1,0 +1,118 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "高山南 Minami Takayama",
+            "url": "/celebrity/1048421/"
+        },
+        {
+            "@type": "Person",
+            "name": "山崎和佳奈 Wakana Yamazaki",
+            "url": "/celebrity/1003697/"
+        },
+        {
+            "@type": "Person",
+            "name": "小山力也 Rikiya Koyama",
+            "url": "/celebrity/1038087/"
+        },
+        {
+            "@type": "Person",
+            "name": "高木涉 Wataru Takagi",
+            "url": "/celebrity/1025675/"
+        },
+        {
+            "@type": "Person",
+            "name": "汤屋敦子 Atsuko Yuya",
+            "url": "/celebrity/1052881/"
+        },
+        {
+            "@type": "Person",
+            "name": "古谷彻 Tôru Furuya",
+            "url": "/celebrity/1025560/"
+        },
+        {
+            "@type": "Person",
+            "name": "白石麻衣 Mai Shiraishi",
+            "url": "/celebrity/1339098/"
+        },
+        {
+            "@type": "Person",
+            "name": "井上和彦 Kazuhiko Inoue",
+            "url": "/celebrity/1003523/"
+        },
+        {
+            "@type": "Person",
+            "name": "三木真一郎 Shinichirô Miki",
+            "url": "/celebrity/1036235/"
+        },
+        {
+            "@type": "Person",
+            "name": "神奈延年 Nobutoshi Canna",
+            "url": "/celebrity/1019948/"
+        },
+        {
+            "@type": "Person",
+            "name": "东地宏树 Hiroki Touchi",
+            "url": "/celebrity/1177363/"
+        },
+        {
+            "@type": "Person",
+            "name": "绿川光 Hikaru Midorikawa",
+            "url": "/celebrity/1048584/"
+        },
+        {
+            "@type": "Person",
+            "name": "三宅健太 Kenta Miyake",
+            "url": "/celebrity/1176990/"
+        },
+        {
+            "@type": "Person",
+            "name": "山口由里子 Yuriko Yamaguchi",
+            "url": "/celebrity/1042487/"
+        },
+        {
+            "@type": "Person",
+            "name": "林原惠美 Megumi Hayashibara",
+            "url": "/celebrity/1002915/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "64039",
+        "ratingValue": "7.5",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "大仓崇裕 Takahiro Ohkura",
+            "url": "/celebrity/1372276/"
+        },
+        {
+            "@type": "Person",
+            "name": "青山刚昌 Gôshô Aoyama",
+            "url": "/celebrity/1020151/"
+        }
+    ],
+    "datePublished": "2022-04-15",
+    "description": "正值万圣节之际，东京涉谷热闹非凡。涉谷HIKARIE大厦里正在举办一场婚礼，身着婚纱的便是——警视厅的佐藤警官。当柯南等宾客都在见证这场婚礼的时候，突如其来的暴徒向佐藤扑去！高木为了保护佐藤而受伤，好...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "满仲劝 Mitsunaka Susumu",
+            "url": "/celebrity/1363597/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "动作",
+        "动画",
+        "悬疑"
+    ],
+    "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2883894742.jpg",
+    "name": "名侦探柯南：万圣节的新娘 名探偵コナン ハロウィンの花嫁",
+    "url": "/subject/35437938/"
+}

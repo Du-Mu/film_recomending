@@ -1,0 +1,76 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "玄彬 Hyun Bin",
+            "url": "/celebrity/1028380/"
+        },
+        {
+            "@type": "Person",
+            "name": "柳海真 Hae-jin Yu",
+            "url": "/celebrity/1312810/"
+        },
+        {
+            "@type": "Person",
+            "name": "林允儿 Yoona",
+            "url": "/celebrity/1275439/"
+        },
+        {
+            "@type": "Person",
+            "name": "丹尼尔·海尼 Daniel Henney",
+            "url": "/celebrity/1036460/"
+        },
+        {
+            "@type": "Person",
+            "name": "陈善圭 Seon-kyu Jin",
+            "url": "/celebrity/1382194/"
+        },
+        {
+            "@type": "Person",
+            "name": "郑允荷 Jung Yun-Ha",
+            "url": "/celebrity/1478009/"
+        },
+        {
+            "@type": "Person",
+            "name": "林成宰 Sungjae Im",
+            "url": "/celebrity/1444305/"
+        },
+        {
+            "@type": "Person",
+            "name": "张荣男 Young-nam Jang",
+            "url": "/celebrity/1170566/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "18935",
+        "ratingValue": "7.1",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "梨晳勳  Seok-hoon Lee",
+            "url": "/celebrity/1319566/"
+        }
+    ],
+    "datePublished": "2022-09-07",
+    "description": "为了追捕藏匿在韩国的国际犯罪组织，北韩刑警任铁零（玄彬 饰）投入新的共同搜查任务。而韩国刑警姜镇泰（柳海真 饰）则在搜查中因发生失误而被调至网络搜查队，为了回到广域搜查队，镇泰自愿担任铁零的伙伴。再次...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "梨晳勳  Seok-hoon Lee",
+            "url": "/celebrity/1319566/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "动作"
+    ],
+    "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2878724852.jpg",
+    "name": "共助2：国际 공조2:인터내셔날",
+    "url": "/subject/35240874/"
+}

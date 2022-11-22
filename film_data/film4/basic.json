@@ -1,0 +1,72 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "高庚杓 Kyung-pyo Go",
+            "url": "/celebrity/1326285/"
+        },
+        {
+            "@type": "Person",
+            "name": "李伊庚 Yi-Kyeong Lee",
+            "url": "/celebrity/1343834/"
+        },
+        {
+            "@type": "Person",
+            "name": "音文硕 Moon-seok Eum",
+            "url": "/celebrity/1400216/"
+        },
+        {
+            "@type": "Person",
+            "name": "朴世婉 Se-wan Park",
+            "url": "/celebrity/1377752/"
+        },
+        {
+            "@type": "Person",
+            "name": "郭东延 Gwak Dong Yeon",
+            "url": "/celebrity/1333577/"
+        },
+        {
+            "@type": "Person",
+            "name": "李俊赫 Lee Joon-Hyuk",
+            "url": "/celebrity/1331785/"
+        },
+        {
+            "@type": "Person",
+            "name": "南道润 Nam Do Yoon",
+            "url": "/celebrity/1479131/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "31334",
+        "ratingValue": "7.7",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "朴奎泰 Gyu-tae Park",
+            "url": "/celebrity/1327953/"
+        }
+    ],
+    "datePublished": "2022-08-24",
+    "description": "即将退伍的南韩兵长千禹（高庚杓 饰），某天意外在紧绷的南北韩军事线附近，捡到一张飘向自己的头奖彩券，之后却一个不小心，让这张彩券乘风飘向无法涉足的北韩…。为了靠57亿奖金实现退伍梦想，他使出浑身解数寻...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "朴奎泰 Gyu-tae Park",
+            "url": "/celebrity/1327953/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "剧情",
+        "喜剧"
+    ],
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2876884670.jpg",
+    "name": "6/45 육사오",
+    "url": "/subject/35441582/"
+}

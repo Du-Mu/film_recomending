@@ -1,0 +1,208 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "费利克斯·卡米勒 Felix Kammerer",
+            "url": "/celebrity/1477330/"
+        },
+        {
+            "@type": "Person",
+            "name": "阿尔布雷希特·舒赫 Albrecht Schuch",
+            "url": "/celebrity/1376138/"
+        },
+        {
+            "@type": "Person",
+            "name": "亚伦·希尔默 Aaron Hilmer",
+            "url": "/celebrity/1477331/"
+        },
+        {
+            "@type": "Person",
+            "name": "丹尼尔·布鲁赫 Daniel Brühl",
+            "url": "/celebrity/1053566/"
+        },
+        {
+            "@type": "Person",
+            "name": "塞巴斯蒂安·胡克 Sebastian Hülk",
+            "url": "/celebrity/1389577/"
+        },
+        {
+            "@type": "Person",
+            "name": "莫里茨·克劳斯 Moritz Klaus",
+            "url": "/celebrity/1237382/"
+        },
+        {
+            "@type": "Person",
+            "name": "阿德里安·格鲁内瓦尔德 Adrian Grünewald",
+            "url": "/celebrity/1449252/"
+        },
+        {
+            "@type": "Person",
+            "name": "埃丁·哈萨诺维奇 Edin Hasanović",
+            "url": "/celebrity/1338655/"
+        },
+        {
+            "@type": "Person",
+            "name": "蒂博·德·蒙塔朗贝尔 Thibault de Montalembert",
+            "url": "/celebrity/1349166/"
+        },
+        {
+            "@type": "Person",
+            "name": "大卫·史崔梭德 Devid Striesow",
+            "url": "/celebrity/1028303/"
+        },
+        {
+            "@type": "Person",
+            "name": " Andreas Döhler",
+            "url": "/celebrity/1479778/"
+        },
+        {
+            "@type": "Person",
+            "name": "吕克·费特 Luc Feit",
+            "url": "/celebrity/1011422/"
+        },
+        {
+            "@type": "Person",
+            "name": "米夏埃尔·维滕博恩 Michael Wittenborn",
+            "url": "/celebrity/1163874/"
+        },
+        {
+            "@type": "Person",
+            "name": "迈克尔·斯坦格 Michael Stange",
+            "url": "/celebrity/1241400/"
+        },
+        {
+            "@type": "Person",
+            "name": "萨沙·纳丹 Sascha Nathan",
+            "url": "/celebrity/1395466/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tobias Langhoff Tobias Langhoff",
+            "url": "/celebrity/1112748/"
+        },
+        {
+            "@type": "Person",
+            "name": "安东·范·卢克 Anton von Lucke",
+            "url": "/celebrity/1367808/"
+        },
+        {
+            "@type": "Person",
+            "name": "乔·温特劳布 Joe Weintraub",
+            "url": "/celebrity/1429332/"
+        },
+        {
+            "@type": "Person",
+            "name": "查尔斯·莫赫伦 Charles Morillon",
+            "url": "/celebrity/1351187/"
+        },
+        {
+            "@type": "Person",
+            "name": "西里尔·多布雷 Cyril Dobrý",
+            "url": "/celebrity/1443326/"
+        },
+        {
+            "@type": "Person",
+            "name": " Sebastian Jacques",
+            "url": "/celebrity/1479808/"
+        },
+        {
+            "@type": "Person",
+            "name": "菲利克斯·冯·布雷多 Felix von Bredow",
+            "url": "/celebrity/1444273/"
+        },
+        {
+            "@type": "Person",
+            "name": "雅各布·迪尔 Jakob Diehl",
+            "url": "/celebrity/1310982/"
+        },
+        {
+            "@type": "Person",
+            "name": " Anthony Paliotti",
+            "url": "/celebrity/1479806/"
+        },
+        {
+            "@type": "Person",
+            "name": " Hendrik Heutmann",
+            "url": "/celebrity/1479807/"
+        },
+        {
+            "@type": "Person",
+            "name": "马古斯·汤姆齐克 Markus Tomczyk",
+            "url": "/celebrity/1341038/"
+        },
+        {
+            "@type": "Person",
+            "name": " Wolf Danny Homann",
+            "url": "/celebrity/1479813/"
+        },
+        {
+            "@type": "Person",
+            "name": " Peter Sikorski",
+            "url": "/celebrity/1479779/"
+        },
+        {
+            "@type": "Person",
+            "name": "托马斯·齐林斯基 Thomas Zielinski",
+            "url": "/celebrity/1258199/"
+        },
+        {
+            "@type": "Person",
+            "name": "安德烈·马尔孔 André Marcon",
+            "url": "/celebrity/1120370/"
+        },
+        {
+            "@type": "Person",
+            "name": " Dominikus Weileder",
+            "url": "/celebrity/1479780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "70247",
+        "ratingValue": "8.6",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "爱德华·贝尔格 Edward Berger",
+            "url": "/celebrity/1278422/"
+        },
+        {
+            "@type": "Person",
+            "name": "莱斯莉·帕特森 Lesley Paterson",
+            "url": "/celebrity/1479844/"
+        },
+        {
+            "@type": "Person",
+            "name": "伊恩·斯托克尔 Ian Stokell",
+            "url": "/celebrity/1020037/"
+        },
+        {
+            "@type": "Person",
+            "name": "埃里希·玛利亚·雷马克 Erich Maria Remarque",
+            "url": "/celebrity/1009810/"
+        }
+    ],
+    "datePublished": "2022-09-12",
+    "description": "该片改编自埃里希·玛利亚·雷马克撰写的同名经典小说，讲述在第一次世界大战期间，保罗·鲍曼和同学莱尔、米勒参加了德国国民志愿兵，被派往前线与法军作战。在战场上，他们目睹到了残酷的饥饿、血腥和死亡，战争的...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "爱德华·贝尔格 Edward Berger",
+            "url": "/celebrity/1278422/"
+        }
+    ],
+    "duration": "PT2H28M",
+    "genre": [
+        "剧情",
+        "动作",
+        "战争"
+    ],
+    "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2879787106.jpg",
+    "name": "西线无战事 Im Westen nichts Neues",
+    "url": "/subject/3042261/"
+}

@@ -1,0 +1,121 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "索茜·贝肯 Sosie Bacon",
+            "url": "/celebrity/1211416/"
+        },
+        {
+            "@type": "Person",
+            "name": "凯尔·加尔纳 Kyle Gallner",
+            "url": "/celebrity/1027808/"
+        },
+        {
+            "@type": "Person",
+            "name": "凯特琳·斯塔西 Caitlin Stasey",
+            "url": "/celebrity/1044954/"
+        },
+        {
+            "@type": "Person",
+            "name": "罗宾·薇格特 Robin Weigert",
+            "url": "/celebrity/1010614/"
+        },
+        {
+            "@type": "Person",
+            "name": "杰西·厄舍 Jessie Usher",
+            "url": "/celebrity/1199074/"
+        },
+        {
+            "@type": "Person",
+            "name": "卡尔·潘 Kal Penn",
+            "url": "/celebrity/1048127/"
+        },
+        {
+            "@type": "Person",
+            "name": "朱迪·雷耶斯 Judy Reyes",
+            "url": "/celebrity/1148500/"
+        },
+        {
+            "@type": "Person",
+            "name": "凯文·凯皮 Kevin Keppy ",
+            "url": "/celebrity/1478415/"
+        },
+        {
+            "@type": "Person",
+            "name": "罗布·摩根 Rob Morgan",
+            "url": "/celebrity/1360285/"
+        },
+        {
+            "@type": "Person",
+            "name": "吉莲·珍塞尔 Gillian Zinser",
+            "url": "/celebrity/1264277/"
+        },
+        {
+            "@type": "Person",
+            "name": "马蒂·马图利斯 Marti Matulis",
+            "url": "/celebrity/1229486/"
+        },
+        {
+            "@type": "Person",
+            "name": "朵拉·济丝 Dora Kiss",
+            "url": "/celebrity/1476607/"
+        },
+        {
+            "@type": "Person",
+            "name": "莎拉·卡普纳 Sara Kapner ",
+            "url": "/celebrity/1478416/"
+        },
+        {
+            "@type": "Person",
+            "name": "马修·兰姆 Matthew Lamb",
+            "url": "/celebrity/1474285/"
+        },
+        {
+            "@type": "Person",
+            "name": "杰里·洛布罗 Jerry Lobrow ",
+            "url": "/celebrity/1478417/"
+        },
+        {
+            "@type": "Person",
+            "name": "谢维·古铁雷斯 Shevy Berkovits Gutierrez",
+            "url": "/celebrity/1264344/"
+        },
+        {
+            "@type": "Person",
+            "name": "梅兹·阿特伍德 Mezi Atwood",
+            "url": "/celebrity/1474586/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "26857",
+        "ratingValue": "6.3",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "帕克·芬恩 Parker Finn",
+            "url": "/celebrity/1473805/"
+        }
+    ],
+    "datePublished": "2022-09-22",
+    "description": "在目睹一名病人诡异的创伤经验之后，萝丝·卡特医师（索茜·贝肯 饰）开始经历一些她无法解释的恐怖事件。当一股令人不寒而栗的可怕力量开始占据她的生活，萝丝就必须面对她令人不安的阴暗过去，才能够存活并逃离她...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "帕克·芬恩 Parker Finn",
+            "url": "/celebrity/1473805/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "恐怖"
+    ],
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2880646049.jpg",
+    "name": "危笑 Smile",
+    "url": "/subject/35779959/"
+}

@@ -1,7 +1,5 @@
-import sys
+import os
 import time
-import codecs
-import random
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -73,6 +71,17 @@ def film_reviews_spider(film_link, film_info, rating_data, addr_data):
 
     return True
 
+def get_basic_data(film_url):
+    time.sleep(1)
+    film_main_html = requests.get(url=film_url, headers=headers).text
+    
+    film_main_soup = BeautifulSoup(film_main_html, 'html.parser')
+
+    basic_info = film_main_soup.find('script', type='application/ld+json').text
+    
+    return json.loads(basic_info, strict = False)
+
+
 def get_film_id():
     film_url = 'https://movie.douban.com/chart'
     film_html = requests.get(url=film_url, headers=headers).text
@@ -82,21 +91,35 @@ def get_film_id():
     for i in film_soup.find_all('a', 'nbg'):
         rating_data = {}
         addr_data = {}
+        basic_data = {}
         num+=1
+
+        print('[-]now are processing film ' + str(num))
+
         film_name = i.get('title')
         film_info = {'title':film_name}
         film_reviews_spider(film_link=i.get('href'), film_info=film_info, rating_data=rating_data, addr_data=addr_data)
+        basic_data = get_basic_data(i.get('href'))
 
-        file = open('./film_data/film'+str(num)+'.json', 'w')
-        json.dump(film_info, fp=file, sort_keys=True, separators=(',', ': '), indent=4,ensure_ascii=False)
+        try:
+            os.mkdir('./film_data/film'+str(num))
+        except Exception:
+            continue
+
+        file = open('./film_data/film'+str(num)+'/comments.json', 'w')
+        json.dump(film_info, fp=file, sort_keys=True, separators=(',', ': '), indent=4, ensure_ascii=False)
         file.close()
 
-        file_addr = open('./film_data/film'+str(num)+'_addr.json', 'w')
-        json.dump(addr_data, fp=file_addr, sort_keys=True, separators=(',', ': '), indent=4,ensure_ascii=False)
-        file.close()
+        file_addr = open('./film_data/film'+str(num)+'/addr.json', 'w')
+        json.dump(addr_data, fp=file_addr, sort_keys=True, separators=(',', ': '), indent=4, ensure_ascii=False)
+        file_addr.close()
 
-        file_rating = open('./film_data/film'+str(num)+'_rating.json', 'w')
-        json.dump(rating_data, fp=file_rating, sort_keys=True, separators=(',', ': '), indent=4,ensure_ascii=False)
-        file.close()
+        file_rating = open('./film_data/film'+str(num)+'/rating.json', 'w')
+        json.dump(rating_data, fp=file_rating, sort_keys=True, separators=(',', ': '), indent=4, ensure_ascii=False)
+        file_rating.close()
+
+        file_basic = open('./film_data/film'+str(num)+'/basic.json', 'w')
+        json.dump(basic_data, fp=file_basic, sort_keys=True, separators=(',', ': '), indent=4, ensure_ascii=False)
+        file_basic.close()
     
 get_film_id()

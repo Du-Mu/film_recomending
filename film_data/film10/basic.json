@@ -1,0 +1,139 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "王凯 Kai Wang",
+            "url": "/celebrity/1325742/"
+        },
+        {
+            "@type": "Person",
+            "name": "季冠霖 Guanlin Ji",
+            "url": "/celebrity/1317669/"
+        },
+        {
+            "@type": "Person",
+            "name": "李立宏 Lihong Li",
+            "url": "/celebrity/1320458/"
+        },
+        {
+            "@type": "Person",
+            "name": "李兰陵 Lanling Li",
+            "url": "/celebrity/1376883/"
+        },
+        {
+            "@type": "Person",
+            "name": "赵毅 Yi Zhao",
+            "url": "/celebrity/1342836/"
+        },
+        {
+            "@type": "Person",
+            "name": "刘校妤 Xiaoyu Liu",
+            "url": "/celebrity/1325738/"
+        },
+        {
+            "@type": "Person",
+            "name": "文靖渊 Jingyuan Wen",
+            "url": "/celebrity/1414056/"
+        },
+        {
+            "@type": "Person",
+            "name": "汤水雨 Shuiyu Tang",
+            "url": "/celebrity/1360207/"
+        },
+        {
+            "@type": "Person",
+            "name": "星潮 Xing Chao",
+            "url": "/celebrity/1402274/"
+        },
+        {
+            "@type": "Person",
+            "name": "邱秋 Qiu Qiu",
+            "url": "/celebrity/1384857/"
+        },
+        {
+            "@type": "Person",
+            "name": "杨天翔 Tianxiang Yang",
+            "url": "/celebrity/1341265/"
+        },
+        {
+            "@type": "Person",
+            "name": "孟宇 Yu Meng",
+            "url": "/celebrity/1399290/"
+        },
+        {
+            "@type": "Person",
+            "name": "杨默 Mo Yang",
+            "url": "/celebrity/1439713/"
+        },
+        {
+            "@type": "Person",
+            "name": "赵铭洲 Mingzhou Zhao",
+            "url": "/celebrity/1406075/"
+        },
+        {
+            "@type": "Person",
+            "name": "李楠 Nan Li",
+            "url": "/celebrity/1387170/"
+        },
+        {
+            "@type": "Person",
+            "name": "林强 Qiang Lin",
+            "url": "/celebrity/1340112/"
+        },
+        {
+            "@type": "Person",
+            "name": "刘琮 Cong Liu",
+            "url": "/celebrity/1348153/"
+        },
+        {
+            "@type": "Person",
+            "name": "锦鲤 Jinwen Chen",
+            "url": "/celebrity/1417473/"
+        },
+        {
+            "@type": "Person",
+            "name": "赵霁 Ji Zhao",
+            "url": "/celebrity/1401175/"
+        },
+        {
+            "@type": "Person",
+            "name": "胡亚捷 Yajie Hu",
+            "url": "/celebrity/1430949/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "ratingCount": "218789",
+        "ratingValue": "7.0",
+        "worstRating": "2"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "王微 Gary Wang",
+            "url": "/celebrity/1348285/"
+        }
+    ],
+    "datePublished": "2022-08-19",
+    "description": "商周之战一千五百年后，天界衰落，蒙冤落魄的杨戬以赏银捕手为业谋生。一日，杨戬接受了一位神秘访客的赏银去追捕一位少年，意外发现少年竟是自己的亲外甥沉香。沉香立志要寻回宝莲灯，劈山救母，却将酿成大祸。杨戬...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "赵霁 Ji Zhao",
+            "url": "/celebrity/1401175/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "动作",
+        "动画",
+        "奇幻",
+        "冒险"
+    ],
+    "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2878224156.jpg",
+    "name": "新神榜：杨戬",
+    "url": "/subject/35360684/"
+}
