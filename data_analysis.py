@@ -28,7 +28,7 @@ def analysis_basic_info(csv_file_name):
     csv_file.close()
 
 
-def analysis_addr_info(file_name):
+def analysis_addr_info(file_name, film_no):
     file = open(file_name, 'r')
     addr_info = json.load(fp=file)
     file.close()
@@ -46,6 +46,23 @@ def analysis_addr_info(file_name):
         explode.append(i*0.01)
     plt.pie(addr_info.values(), labels=addr_info.keys(), explode = explode, autopct = '%1.2f%%',
         pctdistance = 0.8, labeldistance = 0.9)
-    plt.title("addr_info")
-    plt.savefig('final.jpg')
+    plt.title('addr_info')
+    plt.savefig('./paper_writing/images/addr'+str(film_no)+'.jpg')
+
+def analysis_rating_info(file_name, film_no):
+    file = open(file_name, 'r')
+    addr_info = json.load(fp=file)
+    file.close()
+    
+    plt.rcParams['font.sans-serif']=['KaiTi','SimHei','FangSong']
+    plt.figure(figsize = (8,8))
+    explode = []
+    for i in range(0, len(addr_info)):
+        explode.append(i*0.01)
+    plt.pie(addr_info.values(), labels=addr_info.keys(), explode = explode, autopct = '%1.2f%%',
+        pctdistance = 0.8, labeldistance = 0.9)
+    plt.title('rating_info')
+    plt.savefig('./paper_writing/images/rating'+str(film_no)+'.jpg')
+
+
     
